@@ -6,4 +6,9 @@
     <color name="hintColor">#65bdfb</color>
     <color name="white">#FFFFFF</color>
     <color name="rounded_corner_grey">#24000000</color>
+    <color name="black">#000000</color>
+    <color name="grey_end_color">#b4b4b4</color>
+    <color name="grey_start_color">#c9c9c9</color>
+    <color name="green_start_color">#3dda99</color>
+    <color name="green_end_color">#33cb66</color>
 </resources>
