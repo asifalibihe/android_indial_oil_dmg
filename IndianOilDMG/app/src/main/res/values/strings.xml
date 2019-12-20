@@ -8,8 +8,27 @@
 
     <string name="label_google">Google</string>
     <string name="label_facebook">Facebook</string>
-
     <string name="submit">Submit</string>
-
     <string name="surrender_connection_top_note"><![CDATA[By Proceeding, you agree to MakeMyTrip\'s <font color=\'#65bdfb\'>Privacy Policy</font> , <font color=\'#65bdfb\'>User Agreement</font> and <font color=\'#65bdfb\'>Terms of Service</font>]]></string>
+    <string name="welcome_aboard_note">Let\'s know you better and make sure that you \n never lose access to your account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="otp_note">Will be verified via OTP</string>
+    <string name="welcome_aboard">Welcome Aboard</string>
+    <string name="verify_email_note">Enter OTP sent to asif@samrudhi-india.org and \n your registered mobile in order to reset password</string>
+    <string name="hint_enter_otp">Enter OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="title_verify_email_id">Verify your Email ID</string>
+    <string name="title_verify_mobile_no">Verify your Mobile number</string>
+    <string name="verify_mobile_note">Enter OTP sent to 7892082495</string>
+    <string name="auto_fetching_otp">Auto fetching OTP sent via SMS</string>
+    <string name="seconds">18s</string>
+    <string name="title_secure_password">Lets secure your new account with a password</string>
+    <string name="secure_password_note">Use 8 or more characters with a mix of letters, \nnumber &amp; symbols@$!%*#/&amp;</string>
+    <string name="label_enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sample_email_id">asif@cisplinc.com</string>
+    <string name="is_for">is for</string>
 </resources>
