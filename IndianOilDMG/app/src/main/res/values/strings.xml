@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IndianOilDMG</string>
+
+    <string name="app_login_title">Login/ Create Account</string>
+    <string name="label_text_enter_mobileNo_email">Enter Mobile No./Email</string>
+    <string name="label_referral_code">I have a Referral Code</string>
+    <string name="label_connect_with">Or connect with</string>
+
+    <string name="label_google">Google</string>
+    <string name="label_facebook">Facebook</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="surrender_connection_top_note"><![CDATA[By Proceeding, you agree to MakeMyTrip\'s <font color=\'#65bdfb\'>Privacy Policy</font> , <font color=\'#65bdfb\'>User Agreement</font> and <font color=\'#65bdfb\'>Terms of Service</font>]]></string>
+</resources>

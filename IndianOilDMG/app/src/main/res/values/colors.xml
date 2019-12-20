@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5c188c</color>
+    <color name="colorPrimaryDark">#47126d</color>
+    <color name="textColor">#1d63b4</color>
+    <color name="hintColor">#65bdfb</color>
+    <color name="white">#FFFFFF</color>
+    <color name="rounded_corner_grey">#24000000</color>
+</resources>
