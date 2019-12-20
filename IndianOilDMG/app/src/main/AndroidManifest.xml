@@ -9,16 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".VerifyActivity"
-            android:parentActivityName=".WelcomeAboardActivity" />
-        <activity
-            android:name=".WelcomeAboardActivity"
-            android:label="@string/welcome_aboard"
-            android:parentActivityName=".MainActivity"
-            android:windowSoftInputMode="stateHidden" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".LoginActivity"
+            android:label="@string/app_login_title">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
